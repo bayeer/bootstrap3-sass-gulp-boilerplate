@@ -1,0 +1,4 @@
+node_modules/
+/app/css/*
+package.lock
+.idea/
